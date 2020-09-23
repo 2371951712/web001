@@ -1,4 +1,7 @@
+<script>
 var target =document.getElementById("btn");
-target.onclick =function() {
+target.onclick =function()
+ {
     alert("我被点击了")
 }
+</script>
